@@ -146,7 +146,4 @@ QualitySettings:
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms: []
-  m_PerPlatformDefaultQuality:
-    Android: 4
-    Standalone: 4
-    iPhone: 4
+  m_PerPlatformDefaultQuality: {}
